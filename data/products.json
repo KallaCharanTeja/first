@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 14",
+    "category": "Electronics",
+    "price": 799,
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Samsung F23",
+    "category": "Electronics",
+    "price": 234,
+    "Instock": true
+  }
+]
